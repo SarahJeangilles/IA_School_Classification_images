@@ -1,0 +1,1 @@
+Le classifieur "best_model.pkl" utilisé dans le callbacks étant trop lourd pour pouvoir le déposer dans le git, il faut lancer le notebook pour l'enregistrer sous un fichier pickle en local. Ensuite vous pourrez l'utiliser en prenant soin de le référencer convenablement.
